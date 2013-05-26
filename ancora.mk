@@ -149,7 +149,13 @@ PRODUCT_PACKAGES += \
     com.android.future.usb.accessory \
     hciconfig \
     hcitool \
-    libaudioutils
+    libaudioutils \
+    AutoGPS \
+    AriesParts \
+    BackupMan \
+    broodParts \
+    InstaVOLT \
+    RomStats
 
 # For userdebug builds
 ADDITIONAL_DEFAULT_PROPERTIES += \
